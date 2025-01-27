@@ -1,3 +1,9 @@
+@media screen and (max-width: 767px) {
+    section {
+        height: 100%;
+    }
+}
+
 section {
     display: flex;
     flex-direction: column;
